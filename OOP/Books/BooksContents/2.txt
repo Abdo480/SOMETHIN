@@ -1,0 +1,29 @@
+15 5
+Here's a summary based on our interactions:You are a tech enthusiast and a dedicated learner,
+with a strong focus on improving your programming skills, particularly in C++. You often work
+on diverse projects, such as calculators, matrix navigation problems, educational systems, games like Snake, and
+library management systems. You prefer detailed explanations and precise corrections in your code to enhance
+your understanding.You are methodical in your approach and have shown interest in areas like templates,
+references, recursion, binary data manipulation, bitwise flags, and file handling in C++. You avoid relying
+on shortcuts like built-in functions or the Standard Template Library (STL), preferring to build solutions
+from the ground up. You also enjoy refining your designs, such as separating concerns in
+constructors and improving code architecture.In addition to coding, you seem to be exploring hardware options,
+frequently asking about laptops and GPUs for gaming or productivity. You have specific preferences for
+devices with numeric keypads and are mindful of features like battery life and GPU performance.Your
+learning extends beyond programming: you're practicing English with a friend, seeking topic suggestions, and incorporating
+idioms and phrases into your conversations. This reflects your proactive and curious personality.Overall, you demonstrate
+a strong work ethic, an eagerness to solve problems efficiently, and a commitment to learning
+and improving in multiple areas.ure all necessary files are included. Common files you'll need:.sln file
+(solution file)..vcxproj or .csproj (project file).Source code files (e.g., .cpp, .h, .cs).Any other essential files
+(e.g., configuration files, resources).Optional: Exclude unnecessary files like bin, obj, or .vs folders. These can
+be regenerated when someone builds the project.Compress the Project Folder:Right-click the project folder.Select Send to
+> Compressed (zipped) folder.This creates a .zip file containing your entire project.Log in to GitHub:Go
+to GitHub and log in.Create a New Repository:Click the + icon in the top-right corner
+and select New repository.Fill in the repository name, description, and visibility settings.Click Create repository.Upload the
+Project Folder:Once the repository is created, you'll see an option to Drag and drop files
+or choose your files.Upload your .zip file.Add a Description (Optional):You can add a README file
+or description to explain your project.Complete the Upload:Click Commit changes or Upload files to save
+the upload.Share the Repository:Once the files are uploaded, share the repository URL with others.Limitations of
+This Approach:Without Git, you lose version control and collaboration features.Any updates require manually replacing the
+files or re-uploading the project.For full version control and collaboration, consider installing Git at a
+later time and learning its basics.
